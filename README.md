@@ -18,5 +18,5 @@ I'm a Student ... __from __future__ import me__
 
 ## Screenshots
 
-![App Screenshot](Screenshots\Screenshot 2023-10-05 225359.png)
+![App Screenshot](main\Screenshots\Screenshot 2023-10-05 225359.png)
 
