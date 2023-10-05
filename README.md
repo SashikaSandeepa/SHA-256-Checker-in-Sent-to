@@ -18,5 +18,6 @@ I'm a Student ... __from __future__ import me__
 
 ## Screenshots
 
-![App Screenshot](main\Screenshots\Screenshot 2023-10-05 225359.png)
+![App Screenshot](![Screenshot 2023-10-05 225359](https://github.com/SashikaSandeepa/SHA-256-Checker-in-Sent-to/assets/64568167/6d3f1eaa-d594-46cc-9ac6-f5c11b2ae519)
+)
 
